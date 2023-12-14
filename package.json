@@ -7,7 +7,7 @@
     "integration/*"
   ],
   "dependencies": {
-    "@nestjs/common": "^8.2.6",
+    "@nestjs/common": "^9.0.0",
     "@nestjs/core": "^8.2.6",
     "@nestjs/platform-express": "^8.2.6",
     "lodash": "^4.17.11",
